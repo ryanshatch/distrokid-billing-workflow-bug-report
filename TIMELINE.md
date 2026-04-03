@@ -2,15 +2,13 @@
 
 ## Example timeline
 
-- Discovery: 2026-04-03
-- Initial private report sent to vendor: [fill in]
-- Vendor acknowledgment: [fill in]
-- Vendor triage / validation: [fill in]
-- Fix deployed: [fill in]
-- Public disclosure: [fill in]
+- Discovery: 2025-12-15
+- Initial private report sent to vendor: N/A
+- Vendor acknowledgment: N/A
+- Vendor triage / validation: N/A
+- Fix deployed: N/A
+- Public disclosure: 2026-04-03
 
 ## Notes
 
-Keep the exact dates, ticket numbers, and vendor responses here.
-
-Do not post sensitive screenshots, private support links, or account identifiers in a public timeline.
+So far I have decided not to post sensitive screenshots, private support links, or account identifiers in a public timeline.
