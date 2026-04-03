@@ -18,15 +18,10 @@ The concern is not the specific UI path itself. The concern is that a user in a 
 
 - `REPORT.md` — issue summary, impact, and high-level reproduction notes
 - `TIMELINE.md` — a simple disclosure timeline template
-- `VENDOR-CONTACT.md` — a clean contact template for responsible disclosure
 
 ## Scope
 
 This write-up intentionally avoids step-by-step exploit instructions.
-
-## Suggested title
-
-Potential billing-state workflow issue allowing unintended release reactivation
 
 ## Status
 
