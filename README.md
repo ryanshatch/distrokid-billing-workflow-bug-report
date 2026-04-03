@@ -34,4 +34,4 @@ Unconfirmed by vendor.
 
 ## Notes
 
-If this is submitted publicly, redact account-specific information, release IDs, invoice data, private URLs, and anything that makes reproduction easier than necessary.
+So far I have not publicly released any in depth information to redact, release IDs, invoice data, private URLs, etc,. because quite frankly I know that Distrokid will not only ignore my findings, but will remove my art along with the work around. Thus, this publishing is honest, nonetheless I have kept it to myself in order to avoid loosing access to my art. I entirely found this on accident and decided to treat it unlike the way I treated my findings with Namecheaps ability to generate unlimited free SSL certificates.
