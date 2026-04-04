@@ -1,8 +1,5 @@
-#*.md linguist-vendored=false
-#.md linguist-generated=false
-#*.md linguist-documentation=false
-#*.md linguist-detectable=true
-#*.md linguist-language=Markdown
-#*.md linguist-language=markdown
-*.md linguist-language=HTML
+*.md linguist-vendored=false
+*.md linguist-generated=false
+*.md linguist-documentation=false
+*.md linguist-detectable=true
 *.md linguist-language=HTML
