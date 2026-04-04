@@ -27,6 +27,20 @@ This write-up intentionally avoids step-by-step exploit instructions.
 
 Unconfirmed by vendor.
 
+## Ongoing review
+
+I am still reviewing related billing-state and catalog-management behavior before disclosing this privately to DistroKid.
+
+So far, I have observed additional behavior suggesting the issue may extend beyond a single release reactivation path. In at least one case, account-level artist metadata changes appeared to affect distribution status across multiple releases in a way that did not seem consistent with the visible billing or downgrade controls.
+
+At this stage, I am intentionally not publishing the exact workflow, field changes, or platform responses involved. The goal is to document the existence and possible scope of the issue without providing a how-to for reproducing it publicly.
+
+My intent is responsible disclosure and documentation, not monetization or abuse. I am continuing to review the behavior so that any eventual report is accurate, limited to what I directly observed, and useful to the vendor.
+
 ## Notes
 
-So far I have not publicly released any in depth information to redact, release IDs, invoice data, private URLs, etc,. because quite frankly I know that Distrokid will not only ignore my findings, but will remove my art along with the work around. Thus, this publishing is honest, nonetheless I have kept it to myself in order to avoid loosing access to my art. I entirely found this on accident and decided to treat it unlike the way I treated my findings with Namecheaps ability to generate unlimited free SSL certificates.
+I have not publicly released detailed operational information such as exact UI paths, private URLs, release identifiers, invoice data, or account-specific screenshots.
+
+That omission is intentional. I do not want to publish material that could help others abuse a billing-state or catalog-management flaw before the vendor has a chance to review it.
+
+This issue was found accidentally. I am documenting it carefully and reviewing the surrounding behavior before making a private disclosure.

@@ -46,6 +46,14 @@ A lapsed or ineligible account should not be able to restore, reactivate, resubm
 
 A release appeared to become active again after a minimal save action.
 
+## Additional observations under review
+
+During follow-up review, I observed signs that the behavior may not be limited to a single release-level edit path.
+
+In at least one account state, artist-related metadata changes appeared to produce broader catalog effects than expected, including changes that may have influenced store availability or artist mapping across multiple releases.
+
+Because this behavior is still being reviewed, and because publishing the exact sequence would make misuse easier, the precise trigger conditions are being withheld from the public report pending private disclosure.
+
 ## Impact
 
 Potential impacts include:
