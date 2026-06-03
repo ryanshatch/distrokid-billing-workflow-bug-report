@@ -1,0 +1,33 @@
+Subject: Good-Faith Report: Possible Billing-State / Catalog Availability Issue
+
+DistroKid Team,
+
+I am reporting a possible billing-state or catalog-availability issue that I discovered accidentally while reviewing my own DistroKid account and publicly visible music listings.
+
+I noticed that music connected to my account appears to remain available on several third-party platforms, including Amazon, Apple Music, YouTube/YouTube Music, and possibly others. My paid DistroKid plan has not been active for an extended period, so I did not expect these releases to remain active or available based on my visible account state.
+
+I want to be clear about my intent and handling:
+
+I used only my own account and publicly visible store pages. I did not attempt to access another user’s account, bypass authentication, bypass payment, access private data, or abuse the platform. I am reporting this in good faith so DistroKid can review whether the billing-state and catalog-availability controls are working as intended.
+
+I am intentionally not including reproduction steps, private URLs, account identifiers, screenshots, release identifiers, invoice information, or detailed workflow behavior in this initial email. I can provide that information privately through the correct support, security, billing, trust/safety, or engineering channel.
+
+I can provide:
+
+- My account email or account identifier
+- Affected artist/release names
+- Third-party platform links
+- Screenshots showing account state
+- Screenshots showing store availability
+- Approximate discovery timeline
+- Any relevant DistroKid emails or account notices
+
+If any catalog availability, distribution, or revenue activity is unintended under my account status, please advise on the proper way to resolve it. I do not want to retain or benefit from anything that should not be active under my account state.
+
+Please confirm receipt and let me know the best private channel for sharing supporting evidence.
+
+Thank you,
+
+Ryan Hatch
+ryanshatch@gmail.com
+GitHub: https://github.com/ryanshatch
