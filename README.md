@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Pending%20Vendor%20Review-yellow" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Reviewed-green" alt="Status">
   <img src="https://img.shields.io/badge/Disclosure-Responsible%20Disclosure-blue" alt="Disclosure">
   <img src="https://img.shields.io/badge/Reproduction%20Steps-Omitted-red" alt="Reproduction Steps Omitted">
   <img src="https://img.shields.io/badge/Intent-Defensive%20Documentation-green" alt="Intent">
